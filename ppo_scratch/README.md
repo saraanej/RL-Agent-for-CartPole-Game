@@ -23,3 +23,7 @@ Unlike `ppo_stablebaseline`, this version **does not rely on pre-built libraries
 python train.py
 ```
 Trains a PPO agent from scratch on CartPole and prints reward stats during training.
+
+## Reward Progress
+
+![](reward_plot.png)
