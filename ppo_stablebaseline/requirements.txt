@@ -1,0 +1,13 @@
+# I recommend using a virtual environment for this project. You can create one using conda or venv.
+# For example, using conda:
+# conda create -n rl python=3.10
+# conda activate rl
+
+stable-baselines3[extra]
+gym[box2d] #If on Windows, comment this line and run conda install -c conda-forge gym-box2d in your terminal
+matplotlib
+numpy
+pandas
+notebook
+jupyterlab
+moviepy

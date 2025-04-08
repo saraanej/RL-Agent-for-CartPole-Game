@@ -1,0 +1,4 @@
+torch>=1.13.0 # for neural networks
+gym==0.26.2   # for CartPole
+numpy
+matplotlib
