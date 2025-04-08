@@ -39,7 +39,7 @@ Open `analysis.ipynb` to:
 
 > Note: reward logging uses `VecMonitor` from `stable-baselines3`.
 
-## Install Dependancies
+## Install Dependencies
 Install the used libraries using the following command:
 ```bash
 pip install -r requirements.txt
