@@ -6,6 +6,7 @@ This repository contains two implementations of **Proximal Policy Optimization (
 2. **ppo_scratch/** — PPO built from scratch in PyTorch (for full understanding)
 
 The goal is to both *quickly prototype an agent* using a battle-tested library, and *deeply understand* how PPO works by building it from the ground up.
+![CartPole_Agent_Demo](https://github.com/user-attachments/assets/06f1904a-5e05-4765-8591-11ae44185be2)
 
 ---
 
