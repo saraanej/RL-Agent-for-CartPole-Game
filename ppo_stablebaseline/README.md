@@ -48,3 +48,7 @@ pip install -r requirements.txt
 
 ## Summary
 This folder shows how to quickly build and deploy an RL agent using high-level tools. For a full understanding of PPO internals, see the `ppo_scratch` folder.
+
+## Reward Progress
+
+![](training_reward_plot.png)
